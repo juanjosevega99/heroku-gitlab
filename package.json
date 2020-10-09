@@ -1,6 +1,6 @@
 {
   "name": "heroku-gitlab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "engines": {
     "node": "14.12.0",
